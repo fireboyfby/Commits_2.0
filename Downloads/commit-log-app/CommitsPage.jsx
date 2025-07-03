@@ -2,8 +2,8 @@ import { useEffect, useState } from 'react';
 import { createClient } from '@supabase/supabase-js';
 
 const supabase = createClient(
-  import.meta.env.VITE_SUPABASE_URL,
-  import.meta.env.VITE_SUPABASE_ANON_KEY
+  import.meta.env.https://lrwjaebsmilvzmhjguil.supabase.co,
+  import.meta.env.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imxyd2phZWJzbWlsdnptaGpndWlsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTEyNzg2NzMsImV4cCI6MjA2Njg1NDY3M30.qDDQpQ6zU1gYcQpALFXuhO-9f6Y5TLALlrx_8p4PzJo
 );
 
 // (Truncated for brevity. The full code was in the canvas and will be used here.)
